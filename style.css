@@ -509,7 +509,12 @@ svg{
 
 
 
-
+.res-card{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-self: normal;
+}
 
 
 
@@ -519,9 +524,13 @@ svg{
 }
 .container {
   display: flex;
-  width: 1040px;
-  justify-content: left;
   flex-wrap: wrap;
+  width: 640px;
+  max-width: 165%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+  
 }
 .card {
   margin: 7px 7px 6px;
@@ -529,7 +538,7 @@ svg{
   box-shadow: 0 2px 20px rgb(0 0 0 / 20%);
   overflow: hidden;
   width: 305px;
-  align-items: stretch;
+  align-items: center;
 }
 .card-header img {
   width: 100%;
