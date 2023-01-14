@@ -10,5 +10,5 @@ https://user-images.githubusercontent.com/78162039/212458047-d6d8afac-4c99-4a61-
 **First time only install dependencies with:**
 npm i 
 
-Local development server:
+**Local development server:**
 npm run dev
