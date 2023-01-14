@@ -7,7 +7,7 @@ I just used this as a template 😅 but still its a cool portfolio I really like
 https://user-images.githubusercontent.com/78162039/212458047-d6d8afac-4c99-4a61-bfb2-b2e8f8dd2657.mp4
 
 
-First time only install dependencies with:
+**First time only install dependencies with:**
 npm i 
 
 Local development server:
